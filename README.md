@@ -1,11 +1,11 @@
-# 📦 Inventory-App
+## Inventory-App
 
 This repo contains a **Flask-based CRUD web application** to manage my electronics inventory, which I intend to use for personal projects in the near future.  
 It will serve as a **Bill of Materials (BOM)** management tool.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Create** new inventory records.
 - **Read (view)** all existing inventory.
